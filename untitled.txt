@@ -1,0 +1,7 @@
+zmax-quran-tracker/
+├── index.html          # الصفحة الرئيسية
+├── quran-reading.html  # تتبع التلاوة
+├── audio-library.html  # المكتبة الصوتية
+├── adhkar.html         # الأذكار اليومية
+├── daily-surah.html    # السورة اليومية
+└── assets/            # الموارد
